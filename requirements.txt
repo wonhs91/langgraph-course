@@ -5,6 +5,10 @@ langsmith
 langchain-community
 langchain-core
 langchain-openai
+langchain-groq
+langchain-ollama
+langchain-google-vertexai
+google-cloud-aiplatform
 notebook
 tavily-python
 wikipedia
