@@ -1,6 +1,10 @@
 .ipynb_checkpoints/
-
+.vscode/
 .idea/
+langgraph-course/
+fair-gradient-440914-v8-98765d21dab2.json
+langgraph-course-9c8529a52e6b.json
+tutorials/db/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
